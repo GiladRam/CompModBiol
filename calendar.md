@@ -20,9 +20,9 @@ Room C.108 (Computer Science building)
 |   x   |   18/4    | *Passover*            |
 |   x   |   25/4    | *Passover*            |
 |   6   |   2/5     | Computational epidemiology     | 1) [Uri Obolski](https://www.eeid.ox.ac.uk/content/dr-uri-obolski), Oxford
-|       |           |                                | 2) Gilad Ram 
+|       |           |                                | 2) 
 |   x   |   9/5     | *Independence Day*    |
-|   7   |   16/5    | Large scale evolutionary data  | 1) 
+|   7   |   16/5    | Large scale evolutionary data  | 1) Gilad Ram  
 |       |           |                                | 2) 
 |   8   |   23/5    | Computational cell dynamics    | 1) [Assaf Zaritsky](https://www.assafzaritsky.com), BGU
 |       |           |                                | 2) 
